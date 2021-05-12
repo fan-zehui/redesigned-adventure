@@ -11,7 +11,7 @@
   "dependencies": {
     "@grpc/proto-loader": "0.5.1",
     "google-protobuf": "3.6.1",
-    "grpc": "1.23.1",
+    "grpc": "1.24.9",
     "log4js": "3.0.6",
     "moment": "2.22.2",
     "yaml": "1.5.0",
