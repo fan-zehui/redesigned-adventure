@@ -17,7 +17,7 @@ require (
 	github.com/containerd/containerd v1.3.0
 	github.com/creasty/defaults v1.3.0
 	github.com/deckarep/golang-set v1.7.1
-	github.com/docker/distribution v2.7.1+incompatible
+	github.com/docker/distribution v2.8.0+incompatible
 	github.com/docker/docker v0.0.0-00010101000000-000000000000
 	github.com/docker/go-connections v0.4.0
 	github.com/docker/go-units v0.4.0
